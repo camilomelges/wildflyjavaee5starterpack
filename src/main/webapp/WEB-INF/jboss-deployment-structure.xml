@@ -1,0 +1,10 @@
+<jboss-deployment-structure>
+<!--    <deployment>-->
+<!--        <exclusions>-->
+<!--            <module name="javax.faces.api"/>-->
+<!--        </exclusions>-->
+<!--        <dependencies>-->
+<!--            <module name="javax.faces.api" slot="mojarra-1.2_15"/>-->
+<!--        </dependencies>-->
+<!--    </deployment>-->
+</jboss-deployment-structure>
